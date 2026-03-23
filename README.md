@@ -1,1 +1,323 @@
-# crossroadsislamiccenteroklahoma.github.io
+```html                                                                        
+   <!DOCTYPE html>                                                              
+   <html lang="en">                                                             
+   <head>                                                                       
+   <meta charset="utf-8">                                                       
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">                        
+   <meta name="viewport" content="width=device-width, initial-scale=1">         
+   <title>CICO : Home</title>                                                   
+   <link rel="shortcut icon" type="image/icon"                                  
+ href="assets/images/favicon.ico"/>                                             
+   <link                                                                        
+ href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min. 
+ css" rel="stylesheet">                                                         
+   <link href="assets/css/bootstrap.min.css" rel="stylesheet">                  
+   <link href="assets/css/slick.css" rel="stylesheet">                          
+   <link id="switcher" href="assets/css/theme-color/mosque-theme.css"           
+ rel="stylesheet">                                                              
+   <link href="style.css" rel="stylesheet">                                     
+   <link                                                                        
+ href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,8 
+ 00" rel="stylesheet">                                                          
+   <link href="https://fonts.googleapis.com/css?family=Montserrat"              
+ rel="stylesheet">                                                              
+   <!--[if lt IE 9]>                                                            
+   <script                                                                      
+ src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>        
+   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>  
+   <![endif]-->                                                                 
+   <script async                                                                
+ src="https://www.googletagmanager.com/gtag/js?id=G-35LKHLQF4N"></script>       
+   <script>                                                                     
+   window.dataLayer = window.dataLayer || [];                                   
+   function gtag(){dataLayer.push(arguments) ;}                                 
+   gtag('js', new Date());                                                      
+   gtag('config', 'G-35LKHLQF4N');                                              
+   </script>                                                                    
+   </head>                                                                      
+   <body>                                                                       
+   <header id="mu-hero" class="" role="banner">                                 
+   <nav class="navbar navbar-fixed-top navbar-default mu-navbar">               
+   <div class="container">                                                      
+   <div class="navbar-header">                                                  
+   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" 
+  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">            
+   <span class="sr-only">Toggle navigation</span>                               
+   <span class="icon-bar"></span>                                               
+   <span class="icon-bar"></span>                                               
+   <span class="icon-bar"></span>                                               
+   </button>                                                                    
+   </div>                                                                       
+   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">     
+   <ul class="nav navbar-nav mu-menu navbar-right">                             
+   <li><a href="#mu-hero">Home</a></li>                                         
+   <li><a href="#mu-about">About Us</a></li>                                    
+   <li><a href="#mu-prayer-times">Prayer Times</a></li>                         
+   <li><a href="#mu-speakers">Pictures</a></li>                                 
+   <li><a href="#mu-venue">Location</a></li>                                    
+   <li><a href="#mu-sponsors">Donate</a></li>                                   
+   <li><a href="#mu-contact">Contact</a></li>                                   
+   </ul>                                                                        
+   </div>                                                                       
+   </div>                                                                       
+   </nav>                                                                       
+                                                                                
+   <div class="mu-hero-overlay">                                                
+   <div class="container">                                                      
+   <div class="mu-hero-area">                                                   
+   <div class="mu-hero-featured-area">                                          
+   <div class="mu-logo-area">                                                   
+   <a class="mu-logo" href="#"><img src="assets/images/logo.jpg" alt="logo      
+ img"></a>                                                                      
+   </div>                                                                       
+   <div class="mu-hero-featured-content" >                                      
+   <h1>CICO</h1>                                                                
+   <h2>Crossroads Islamic Center of Oklahoma</h2>                               
+   <div class="mu-event-counter-area">                                          
+   <div id="mu-event-counter"></div>                                            
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </header>                                                                    
+                                                                                
+   <main role="main">                                                           
+   <section id="mu-about">                                                      
+   <div class="container">                                                      
+   <div class="row">                                                            
+   <div class="col-md-12">                                                      
+   <div class="mu-about-area">                                                  
+   <div class="row">                                                            
+   <div class="col-md-6">                                                       
+   <div class="mu-about-left">                                                  
+   <img class="" src="assets/images/about.jpg" alt="About image">               
+   </div>                                                                       
+   </div>                                                                       
+   <div class="col-md-6">                                                       
+   <div class="mu-about-right">                                                 
+   <h2>About Our Mosque</h2>                                                    
+   <p>Crossroads Islamic Center of Oklahoma is committed to establishing and    
+ maintaining a facility for Muslim worship in Oklahoma City. All are welcome    
+ and invited to use the space for their spiritual, educational and social       
+ needs. We serve the spiritual, religious and communal needs of the community   
+ through worship, charity, education and civic engagement. Our practicing       
+ principles are moderation, tolerance and inclusiveness within the structural   
+ limits of the Quran and Sunnah.</p>                                            
+   <p>Crossroads Islamic Center performs regular daily prayers five times a day 
+ along with Friday prayer and Eid prayer. We offer weekly religious classes for 
+ children. During the month of Ramadan we offer food (IFTAR) to break fast      
+ every day.</p>                                                                 
+   <p>All the activities are funded by donation from the people.</p>            
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </section>                                                                   
+                                                                                
+   <section id="mu-prayer-times">                                               
+   <div class="container">                                                      
+   <div class="row">                                                            
+   <div class="col-md-12">                                                      
+   <div class="mu-about-area">                                                  
+   <div class="mu-title-area">                                                  
+   <h2 class="mu-title">Daily Prayer Times (Oklahoma City)</h2>                 
+   <p id="mu-prayer-date">Loading today's prayer times...</p>                   
+   </div>                                                                       
+   <div class="table-responsive">                                               
+   <table class="table table-striped table-bordered">                           
+   <thead>                                                                      
+   <tr>                                                                         
+   <th>Prayer</th>                                                              
+   <th>Time</th>                                                                
+   </tr>                                                                        
+   </thead>                                                                     
+   <tbody id="mu-prayer-times-body">                                            
+   <tr><td colspan="2">Loading...</td></tr>                                     
+   </tbody>                                                                     
+   </table>                                                                     
+   </div>                                                                       
+   <p><small>Prayer times are updated daily for Oklahoma City (ISNA             
+ method).</small></p>                                                           
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </section>                                                                   
+                                                                                
+   <section id="mu-speakers">                                                   
+   <div class="container">                                                      
+   <div class="row">                                                            
+   <div class="col-md-12">                                                      
+   <div class="mu-speakers-area">                                               
+   <div class="mu-title-area">                                                  
+   <h2 class="mu-title">Our Pictures</h2>                                       
+   <p>Here are some of our pictures of our location and events.</p>             
+   </div>                                                                       
+   <div class="mu-speakers-content">                                            
+   <div class="mu-speakers-slider">                                             
+   <div class="mu-single-speakers">                                             
+   <img src="assets/images/about.jpg" alt="Main Building">                      
+   <div class="mu-single-speakers-info"><h3>Main Building</h3></div>            
+   </div>                                                                       
+   <div class="mu-single-speakers">                                             
+   <img src="assets/images/Untitled.jpg" alt="Main Entrance">                   
+   <div class="mu-single-speakers-info"><h3>Main Entrance</h3></div>            
+   </div>                                                                       
+   <div class="mu-single-speakers">                                             
+   <img src="assets/images/gathering.jpg" alt="Salah Gathering">                
+   <div class="mu-single-speakers-info"><h3>Salah Gathering</h3></div>          
+   </div>                                                                       
+   <div class="mu-single-speakers">                                             
+   <img src="assets/images/IMG_1146.jpg" alt="Khutbah Podium">                  
+   <div class="mu-single-speakers-info"><h3>Khutbah Podium</h3></div>           
+   </div>                                                                       
+   <div class="mu-single-speakers">                                             
+   <img src="assets/images/IMG_1149.jpg" alt="Main Hall">                       
+   <div class="mu-single-speakers-info"><h3>Main Hall</h3></div>                
+   </div>                                                                       
+   <div class="mu-single-speakers">                                             
+   <img src="assets/images/lobby.jpg" alt="Lobby">                              
+   <div class="mu-single-speakers-info"><h3>Lobby</h3></div>                    
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </section>                                                                   
+                                                                                
+   <section id="mu-venue">                                                      
+   <div class="mu-venue-area">                                                  
+   <div class="row">                                                            
+   <div class="col-md-6">                                                       
+   <div class="mu-venue-map">                                                   
+   <iframe                                                                      
+ src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d966.9301676840544!2d 
+ -97.49427057376175!3d35.39651349512925!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3 
+ A0x96496c6c29e554fb!2sCrossroads%20Islamic%20Center%20of%20Oklahoma!5e0!3m2!1s 
+ en!2sus!4v1661135363324!5m2!1sen!2sus" width="600" height="450"                
+ style="border:0;" allowfullscreen="" loading="lazy"                            
+ referrerpolicy="no-referrer-when-downgrade"></iframe>                          
+   </div>                                                                       
+   </div>                                                                       
+   <div class="col-md-6">                                                       
+   <div class="mu-venue-address">                                               
+   <h2>LOCATION <i class="fa fa-chevron-right" aria-hidden="true"></i></h2>     
+   <h3>Crossroads Islamic Center of Oklahoma</h3>                               
+   <h4>7004 S I-35 Service Rd, Oklahoma City, OK 73149</h4>                     
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </section>                                                                   
+                                                                                
+   <section id="mu-sponsors">                                                   
+   <div class="container">                                                      
+   <div class="row">                                                            
+   <div class="col-md-12">                                                      
+   <div class="mu-sponsors-area">                                               
+   <div class="mu-title-area">                                                  
+   <h2 class="mu-title">Donate to this Mosque</h2>                              
+   <p>Please donate to this masjid generously for the cause of Allah SWT to     
+ support all the activities in the masjid. Do not hesitate to donate any amount 
+ - big or small. Every little bit counts. May Allah SWT reward you and give you 
+ place in Jannat ul Firdous.</p>                                                
+   </div>                                                                       
+   <center><img src="assets/images/donate.jpg" alt="Donate to this              
+ mosque"></center>                                                              
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </section>                                                                   
+                                                                                
+   <section id="mu-contact">                                                    
+   <div class="container">                                                      
+   <div class="row">                                                            
+   <div class="col-md-12">                                                      
+   <div class="mu-contact-area">                                                
+   <div class="mu-title-area">                                                  
+   <h2 class="mu-heading-title">Contact Us</h2>                                 
+   <p>For any questions please contact us at oklahomacico@gmail.com</p>         
+   <p class="mu-copy-right"><font size="1">&copy; Copyright Crossroads Islamic  
+ Center of Oklahoma. All right reserved.</font></p>                             
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </div>                                                                       
+   </section>                                                                   
+   </main>                                                                      
+                                                                                
+   <script                                                                      
+ src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></scri 
+ pt>                                                                            
+   <script src="assets/js/bootstrap.min.js"></script>                           
+   <script src="assets/js/slick.min.js"></script>                               
+   <script src="assets/js/jquery.countdown.min.js"></script>                    
+   <script src="assets/js/app.js"></script>                                     
+   <script src="assets/js/custom.js"></script>                                  
+                                                                                
+   <script>                                                                     
+   (function () {                                                               
+   var apiUrl =                                                                 
+ 'https://api.aladhan.com/v1/timingsByCity?city=Oklahoma%20City&country=US&meth 
+ od=2';                                                                         
+   var bodyEl = document.getElementById('mu-pray er-times-body');               
+   var dateEl = document.getElementById('mu-pray er-date');                     
+                                                                                
+   function setError() {                                                        
+   if (bodyEl) {                                                                
+   bodyEl.innerHTML = '<tr><td colspan="2">Prayer times are temporarily         
+ unavailable. Please check back shortly.</td></tr>';                            
+   }                                                                            
+   if (dateEl) {                                                                
+   dateEl.textContent = 'Unable to load prayer times right now.';               
+   }                                                                            
+   }                                                                            
+                                                                                
+   fetch(apiUrl)                                                                
+   .then(function (response) { return response.json(); })                       
+   .then(function (result) {                                                    
+   if (!result || !result.data || !result.data.timings) {                       
+   setError();                                                                  
+   return;                                                                      
+   }                                                                            
+                                                                                
+   var t = result.data.timings;                                                 
+   var prayers = [                                                              
+   ['Fajr', t.Fajr],                                                            
+   ['Sunrise', t.Sunrise],                                                      
+   ['Dhuhr', t.Dhuhr],                                                          
+   ['Asr', t.Asr],                                                              
+   ['Maghrib', t.Maghrib],                                                      
+   ['Isha', t.Isha]                                                             
+   ];                                                                           
+                                                                                
+   if (bodyEl) {                                                                
+   bodyEl.innerHTML = prayers.map(function (prayer) {                           
+   return '<tr><td>' + prayer[0] + '</td><td>' + prayer[1] + '</td></tr>';      
+   }).join('');                                                                 
+   }                                                                            
+                                                                                
+   if (dateEl) {                                                                
+   var readableDate = result.data.date && result.data.date.readable ?           
+ result.data.date.readable : 'Today';                                           
+   dateEl.textContent = 'Prayer times for ' + readableDate + '                  
+ (America/Chicago).';                                                           
+   }                                                                            
+   })                                                                           
+   .catch(function () {                                                         
+   setError();                                                                  
+   });                                                                          
+   })();                                                                        
+   </script>                                                                    
+   </body>                                                                      
+   </html>                                                                      
+ ```
